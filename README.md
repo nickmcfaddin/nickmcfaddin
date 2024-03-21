@@ -1,4 +1,4 @@
-# Nick McFaddin
+# Nicholas McFaddin
 Hi there! I am a student majoring in Computer Engineering at the University of Manitoba.
 
 ## Projects
